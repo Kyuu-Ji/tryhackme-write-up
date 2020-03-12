@@ -1,2 +1,8 @@
-# tryhackme-write-up
-Write-Ups for TryHackMe
+# Write-ups for TryHackMe Challenges
+
+More write-ups will come soon.
+
+## Challenges
+
+- OhSINT
+- Blue

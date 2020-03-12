@@ -21,7 +21,7 @@ As the name of the challenge suggests, this is an **OSINT (Open-Source Intellige
 
 Because it is an OSINT task, I will look into the metadata of the image file with **exiftool**:
 
-![Metadata of image](https://github.com/Kyuu-Ji/tryhackme-write-up/OhSINT/ohsint_metadata.png)
+![Metadata of image](/OhSINT/ohsint_metadata.png)
 
 Now we get the author name that can be used to gather more information.
 Using Google to look up that name, we get three interesting results:

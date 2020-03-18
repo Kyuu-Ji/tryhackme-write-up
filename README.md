@@ -6,3 +6,4 @@ More write-ups will come soon.
 
 - OhSINT
 - Blue
+- Basic Pentesting
